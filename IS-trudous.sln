@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS-trudous", "IS-trudous\IS-trudous.csproj", "{362D294D-FF2B-4EFE-93F1-F0EA55D576F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362D294D-FF2B-4EFE-93F1-F0EA55D576F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362D294D-FF2B-4EFE-93F1-F0EA55D576F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362D294D-FF2B-4EFE-93F1-F0EA55D576F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362D294D-FF2B-4EFE-93F1-F0EA55D576F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EB4A4E-1D63-4985-95F3-C38CCF8C3CEC}
+	EndGlobalSection
+EndGlobal
